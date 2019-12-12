@@ -15,4 +15,4 @@ public class DynamicDataStructureConnectedSystemTemplate extends SimpleConnected
     return simpleConfiguration;
   }
 }
-
+xxxx
