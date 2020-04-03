@@ -27,6 +27,8 @@ import java.net.URL;
 import io.appium.java_client.ios.IOSDriver;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
+//None Test
+
 public class CalculatorTest {
 
     private static RemoteWebDriver CalculatorSession = null;
